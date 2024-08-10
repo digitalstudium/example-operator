@@ -1,8 +1,8 @@
 # example-operator
-// TODO(user): Add simple overview of use/purpose
+Just an example of kubernetes operator for educational purposes
 
 ## Description
-// TODO(user): An in-depth paragraph about your project and overview of use
+This operator can create nginx container
 
 ## Getting Started
 
